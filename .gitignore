@@ -5,6 +5,7 @@
 
 /gh-prview
 /gh-prview.exe
+/dist/
 
 # Test binary, built with `go test -c`
 *.test
